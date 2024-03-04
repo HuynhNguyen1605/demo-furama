@@ -1,0 +1,2 @@
+Customer{id=1, fullName='Tuan', dateOfBirth=Thu Feb 01 00:00:00 ICT 3900, gender='Nam', identify='4573736272', phoneNumber='12345534534', customerType='Diamond', address='SaiGon'}
+Customer{id=1, fullName='Nguyen', dateOfBirth=Thu Feb 01 00:00:00 ICT 3900, gender='Nam', identify='4573436272', phoneNumber='12342344534', customerType='Diamond', address='HaNoi'}
